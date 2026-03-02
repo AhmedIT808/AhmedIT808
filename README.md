@@ -59,7 +59,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/AhmedIT808/AhmedIT808/output/snake.svg" alt="Snake animation" />
-
-###
