@@ -38,9 +38,16 @@
   <a href="https://www.linkedin.com/in/eng-ahmed-sayed-fullstack/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="mailto:ahmed.sayed.fullstack2@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
+<a href="mailto:ahmed.sayed.fullstack2@gmail.com" target="_blank" style="text-decoration: none;">
+  <img 
+    src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" 
+    height="35" 
+    alt="Gmail Logo"
+    style="transition: transform 0.3s;"
+    onmouseover="this.style.transform='scale(1.1)';"
+    onmouseout="this.style.transform='scale(1)';"
+  />
+</a>
   <a href="https://wsend.co/201025501018" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
   </a>
